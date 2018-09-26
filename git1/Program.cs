@@ -12,6 +12,7 @@ namespace git1
         {
             
             Console.WriteLine("Hello git1!");
+            Console.WriteLine("ny ændring");
             Console.ReadKey();
 
             
